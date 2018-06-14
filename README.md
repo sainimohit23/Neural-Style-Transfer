@@ -15,7 +15,7 @@ schematic representation of algorithm:
 
 1) Clone/download this repostiory.
 
-2) Download vgg16 network from here : 
+2) Download vgg16 network from here : http://www.vlfeat.org/matconvnet/pretrained/ or google drive link : https://drive.google.com/open?id=1zaLoq-jrp6jfpxXSIO_kXT0bABgnazx8 (recommended)
 
 3) Place this folder in program directiory.
 
